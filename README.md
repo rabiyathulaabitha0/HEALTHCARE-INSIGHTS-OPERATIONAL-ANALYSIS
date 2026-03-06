@@ -85,7 +85,7 @@ featuring:
 ### Steps
 1. **Load Data**:
    - Import the hospital ER data into MySQL database
-   - Ensure table structure matches: `hospital_er_data.hospital er_data`
+  
 
 2. **Run SQL Queries**:
    - Open  [SQL Queries]((https://github.com/rabiyathulaabitha0/HEALTHCARE-INSIGHTS-OPERATIONAL-ANALYSIS/blob/main/Hospital%20data%20sql.sql) in your SQL client
