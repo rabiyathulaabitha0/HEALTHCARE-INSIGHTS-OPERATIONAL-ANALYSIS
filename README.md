@@ -88,7 +88,7 @@ featuring:
    - Ensure table structure matches: `hospital_er_data.hospital er_data`
 
 2. **Run SQL Queries**:
-   - Open `Hospital_data_sql.sql` in your SQL client
+   - Open  [SQL Queries]((https://github.com/rabiyathulaabitha0/HEALTHCARE-INSIGHTS-OPERATIONAL-ANALYSIS/blob/main/Hospital%20data%20sql.sql) in your SQL client
    - Execute individual queries to validate data and extract metrics
    - Review query comments for specific analysis objectives
 
