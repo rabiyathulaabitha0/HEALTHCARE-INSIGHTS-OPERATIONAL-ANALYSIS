@@ -1,7 +1,7 @@
-# Hospital ER Analytics Dashboard
+# HEALTHCARE INSIGHTS & OPERATIONAL ANALYSIS
 
 ## Project Title
-Hospital Emergency Room (ER) Analytics & Performance Dashboard
+HEALTHCARE INSIGHTS & OPERATIONAL ANALYSIS
 
 ## Brief One Line Summary
 A comprehensive data analytics solution that tracks and visualizes hospital ER performance metrics including patient flow, wait times, department referrals, and satisfaction scores.
