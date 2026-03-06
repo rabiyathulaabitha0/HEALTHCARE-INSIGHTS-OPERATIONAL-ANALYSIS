@@ -93,7 +93,7 @@ featuring:
    - Review query comments for specific analysis objectives
 
 3. **Power BI Setup**:
-   - Open `Healthcare_power_bi__1_.pbit` template file
+   - Open [Power BI Dashboard] (https://github.com/rabiyathulaabitha0/HEALTHCARE-INSIGHTS-OPERATIONAL-ANALYSIS/blob/main/Healthcare%20power%20bi.pbit) template file
    - Configure database connection to your MySQL instance
    - Refresh data connections
    - Customize visuals and filters as needed
