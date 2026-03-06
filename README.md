@@ -118,6 +118,8 @@ Key findings enable the hospital to:
 - Optimize resource allocation
 - Better manage peak-hour capacity
 - Identify underperforming departments
+  ![image alt](https://github.com/rabiyathulaabitha0/HEALTHCARE-INSIGHTS-OPERATIONAL-ANALYSIS/blob/main/Monthly%20view.png)
+  
 
 
 **Author**: Data Analytics Team  
